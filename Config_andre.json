@@ -62,9 +62,9 @@
 
       "lote": 0.05,
 
-      "spread_max": 25,
+      "spread_max": 100,
 
-      "stop": 150,
+      "stop": 70,
 
       "tp": 300,
 
