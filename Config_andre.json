@@ -5,7 +5,7 @@
 
   "gerenciamento": {
 
-    "max_ordens": 2,
+    "max_ordens": 1,
 
     "stop_individual": 30,
 
@@ -15,9 +15,9 @@
 
       "ativo": true,
 
-      "ativar_em": 50,
+      "ativar_em": 300,
 
-      "reter_percentual": 70
+      "reter_percentual": 60
     }
   },
 
@@ -30,13 +30,13 @@
 
       "lote": 0.01,
 
-      "spread_max": 40,
+      "spread_max": 130,
 
-      "stop": 300,
+      "stop": 600,
 
-      "tp": 600,
+      "tp": 1000,
 
-      "cooldown": 300
+      "cooldown": 600
     },
 
     {
