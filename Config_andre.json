@@ -46,13 +46,13 @@
 
       "lote": 0.01,
 
-      "spread_max": 300,
+      "spread_max": 2000,
 
-      "stop": 1500,
+      "stop": 3500,
 
-      "tp": 3000,
+      "tp": 7000,
 
-      "cooldown": 600
+      "cooldown": 1800
     },
 
     {
@@ -62,13 +62,13 @@
 
       "lote": 0.05,
 
-      "spread_max": 30,
+      "spread_max": 25,
 
       "stop": 150,
 
       "tp": 300,
 
-      "cooldown": 180
+      "cooldown": 240
     },
 
     {
@@ -78,13 +78,13 @@
 
       "lote": 0.05,
 
-      "spread_max": 30,
+      "spread_max": 35,
 
-      "stop": 150,
+      "stop": 180,
 
-      "tp": 300,
+      "tp": 360,
 
-      "cooldown": 180
+      "cooldown": 300
     }
   ]
 }
