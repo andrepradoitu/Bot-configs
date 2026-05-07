@@ -1,0 +1,90 @@
+{
+  "modo_operacao": "NORMAL",
+
+  "tempo_espera": 5,
+
+  "gerenciamento": {
+
+    "max_ordens": 2,
+
+    "stop_individual": 30,
+
+    "tp_multiplicador": 2,
+
+    "trailing": {
+
+      "ativo": true,
+
+      "ativar_em": 50,
+
+      "reter_percentual": 70
+    }
+  },
+
+  "ativos": [
+
+    {
+      "symbol": "XAUUSD",
+
+      "enabled": true,
+
+      "lote": 0.01,
+
+      "spread_max": 40,
+
+      "stop": 300,
+
+      "tp": 600,
+
+      "cooldown": 300
+    },
+
+    {
+      "symbol": "BTCUSD",
+
+      "enabled": true,
+
+      "lote": 0.01,
+
+      "spread_max": 300,
+
+      "stop": 1500,
+
+      "tp": 3000,
+
+      "cooldown": 600
+    },
+
+    {
+      "symbol": "EURUSD",
+
+      "enabled": true,
+
+      "lote": 0.05,
+
+      "spread_max": 30,
+
+      "stop": 150,
+
+      "tp": 300,
+
+      "cooldown": 180
+    },
+
+    {
+      "symbol": "USDJPY",
+
+      "enabled": true,
+
+      "lote": 0.05,
+
+      "spread_max": 30,
+
+      "stop": 150,
+
+      "tp": 300,
+
+      "cooldown": 180
+    }
+  ]
+}
