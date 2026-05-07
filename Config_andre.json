@@ -15,9 +15,9 @@
 
       "ativo": true,
 
-      "ativar_em": 300,
+      "ativar_em": 100,
 
-      "reter_percentual": 60
+      "reter_percentual": 75
     }
   },
 
