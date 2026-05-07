@@ -30,11 +30,11 @@
 
       "lote": 0.01,
 
-      "spread_max": 130,
+      "spread_max": 110,
 
-      "stop": 600,
+      "stop": 350,
 
-      "tp": 1000,
+      "tp": 500,
 
       "cooldown": 600
     },
