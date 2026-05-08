@@ -1,7 +1,7 @@
 {
     "cliente": "alex",
 
-    "modo_operacao": "NORMAL",
+    "modo_operacao": "MODERADO",
 
     "tempo_espera": 5,
 
@@ -11,15 +11,15 @@
 
         "stop_individual": 30,
 
-        "tp_multiplicador": 2,
+        "tp_multiplicador": 2.5,
 
         "trailing": {
 
             "ativo": true,
 
-            "ativar_em": 50,
+            "ativar_em": 180,
 
-            "reter_percentual": 70
+            "reter_percentual": 88
         }
     },
 
@@ -30,15 +30,15 @@
 
             "enabled": true,
 
-            "lote": 0.05,
+            "lote": 0.03,
 
-            "spread_max": 20,
+            "spread_max": 25,
 
-            "stop": 100,
+            "stop": 180,
 
-            "tp": 200,
+            "tp": 320,
 
-            "cooldown": 180
+            "cooldown": 300
         },
 
         {
@@ -48,13 +48,13 @@
 
             "lote": 0.03,
 
-            "spread_max": 40,
+            "spread_max": 120,
 
-            "stop": 300,
+            "stop": 350,
 
-            "tp": 600,
+            "tp": 900,
 
-            "cooldown": 300
+            "cooldown": 600
         },
 
         {
@@ -64,13 +64,13 @@
 
             "lote": 0.01,
 
-            "spread_max": 200,
+            "spread_max": 2500,
 
-            "stop": 1500,
+            "stop": 7000,
 
-            "tp": 3000,
+            "tp": 18000,
 
-            "cooldown": 600
+            "cooldown": 1800
         }
     ]
 }
