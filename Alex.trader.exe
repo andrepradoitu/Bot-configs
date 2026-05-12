@@ -1,0 +1,144 @@
+{
+  "modo_operacao": "NORMAL",
+
+  "timeframe": "M15",
+
+  "tempo_espera": 15,
+
+  "horario_brasil": {
+
+    "inicio": 8,
+
+    "fim": 23
+  },
+
+  "gerenciamento": {
+
+    "max_ordens": 2,
+
+    "max_drawdown_percent": 3,
+
+    "daily_loss_limit": 3,
+
+    "stop_individual": 30,
+
+    "tp_multiplicador": 3,
+
+    "cooldown_global": 1200,
+
+    "break_even": {
+
+      "ativo": true,
+
+      "ativar_em": 100
+    },
+
+    "trailing": {
+
+      "ativo": true,
+
+      "ativar_em": 130,
+
+      "distancia": 180,
+
+      "reter_percentual": 70
+    },
+
+    "partial_close": {
+
+      "ativo": true,
+
+      "executar_em_usd": 1.30,
+
+      "fechar_percentual": 30
+    }
+  },
+
+  "filtros": {
+
+    "usar_filtro_tendencia": true,
+
+    "usar_filtro_sessao": true,
+
+    "usar_filtro_spread": true,
+
+    "usar_filtro_atr": true,
+
+    "atr_minimo": 15
+  },
+
+  "ativos": [
+
+    {
+      "symbol": "BTCUSD",
+
+      "enabled": true,
+
+      "prioridade": 1,
+
+      "lote": 0.01,
+
+      "spread_max": 1800,
+
+      "stop": 3000,
+
+      "tp": 9000,
+
+      "cooldown": 1800
+    },
+
+    {
+      "symbol": "XAUUSD",
+
+      "enabled": true,
+
+      "prioridade": 2,
+
+      "lote": 0.01,
+
+      "spread_max": 80,
+
+      "stop": 300,
+
+      "tp": 750,
+
+      "cooldown": 1200
+    },
+
+    {
+      "symbol": "EURUSD",
+
+      "enabled": true,
+
+      "prioridade": 3,
+
+      "lote": 0.01,
+
+      "spread_max": 20,
+
+      "stop": 80,
+
+      "tp": 220,
+
+      "cooldown": 900
+    },
+
+    {
+      "symbol": "USDJPY",
+
+      "enabled": true,
+
+      "prioridade": 4,
+
+      "lote": 0.01,
+
+      "spread_max": 20,
+
+      "stop": 120,
+
+      "tp": 320,
+
+      "cooldown": 900
+    }
+  ]
+}
