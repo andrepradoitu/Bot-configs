@@ -1,5 +1,5 @@
 {
-  "modo_operacao": "SAFE",
+  "modo_operacao": "NORMAL",
 
   "timeframe": "M15",
 
@@ -14,43 +14,43 @@
 
   "gerenciamento": {
 
-    "max_ordens": 1,
+    "max_ordens": 2,
 
-    "max_drawdown_percent": 10,
+    "max_drawdown_percent": 3,
 
     "daily_loss_limit": 3,
 
     "stop_individual": 30,
 
-    "tp_multiplicador": 2.5,
+    "tp_multiplicador": 3,
 
-    "cooldown_global": 900,
+    "cooldown_global": 1200,
 
     "break_even": {
 
       "ativo": true,
 
-      "ativar_em": 120
+      "ativar_em": 100
     },
 
     "trailing": {
 
       "ativo": true,
 
-      "ativar_em": 150,
+      "ativar_em": 130,
 
-      "distancia": 250,
+      "distancia": 180,
 
-      "reter_percentual": 75
+      "reter_percentual": 70
     },
 
     "partial_close": {
 
       "ativo": true,
 
-      "executar_em_usd": 1.0,
+      "executar_em_usd": 1.30,
 
-      "fechar_percentual": 75
+      "fechar_percentual": 30
     }
   },
 
@@ -64,7 +64,7 @@
 
     "usar_filtro_atr": true,
 
-    "atr_minimo": 40
+    "atr_minimo": 15
   },
 
   "ativos": [
@@ -78,67 +78,67 @@
 
       "lote": 0.01,
 
-      "spread_max": 1500,
+      "spread_max": 1800,
 
-      "stop": 3500,
+      "stop": 3000,
 
-      "tp": 7000,
+      "tp": 9000,
 
-      "cooldown": 900
+      "cooldown": 1800
     },
 
     {
       "symbol": "XAUUSD",
 
-      "enabled": false,
+      "enabled": true,
 
       "prioridade": 2,
 
       "lote": 0.01,
 
-      "spread_max": 110,
+      "spread_max": 80,
 
-      "stop": 350,
+      "stop": 300,
 
-      "tp": 500,
+      "tp": 750,
 
-      "cooldown": 600
+      "cooldown": 1200
     },
 
     {
       "symbol": "EURUSD",
 
-      "enabled": false,
+      "enabled": true,
 
       "prioridade": 3,
 
       "lote": 0.01,
 
-      "spread_max": 30,
+      "spread_max": 20,
 
-      "stop": 70,
+      "stop": 80,
 
-      "tp": 150,
+      "tp": 220,
 
-      "cooldown": 600
+      "cooldown": 900
     },
 
     {
       "symbol": "USDJPY",
 
-      "enabled": false,
+      "enabled": true,
 
       "prioridade": 4,
 
       "lote": 0.01,
 
-      "spread_max": 25,
+      "spread_max": 20,
 
-      "stop": 150,
+      "stop": 120,
 
-      "tp": 300,
+      "tp": 320,
 
-      "cooldown": 600
+      "cooldown": 900
     }
   ]
 }
