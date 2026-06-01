@@ -8,7 +8,7 @@
   "cooldown_seconds": 300,
   "wait_new_candle": false,
 
-  "github_sync_enabled": false,
+  "github_sync_enabled": true,
   "github_runtime_url": "https://raw.githubusercontent.com/andrepradoitu/Bot-configs/main/clientes/andre/runtime_config.json",
 
   "active_symbols": {
