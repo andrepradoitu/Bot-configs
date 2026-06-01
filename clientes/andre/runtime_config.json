@@ -4,7 +4,7 @@
   "mode": "auto",
   "timeframe": "M5",
   "loop_seconds": 15,
-  "max_positions": 1,
+  "max_positions": 0,
   "cooldown_seconds": 300,
   "wait_new_candle": false,
 
