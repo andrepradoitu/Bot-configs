@@ -1,0 +1,74 @@
+{
+  "client_name": "MICHEL",
+  "expiration_date": "2026-06-30",
+  "mode": "auto",
+  "timeframe": "M5",
+  "loop_seconds": 15,
+  "max_positions": 1,
+  "cooldown_seconds": 300,
+  "wait_new_candle": false,
+
+  "github_sync_enabled": true,
+  "github_runtime_url": "https://raw.githubusercontent.com/andrepradoitu/Bot-configs/main/clientes/michel/runtime_config.json",
+
+  "active_symbols": {
+    "BTCUSD": "NORMAL",
+    "XAUUSD": "MODERADO",
+    "EURUSD": "MODERADO",
+    "USDJPY": "NORMAL"
+  },
+
+  "break_even": {
+    "ativo": true,
+    "trigger_points": 80,
+    "proteger_points": 10
+  },
+
+  "partial_close": {
+    "ativo": true,
+    "trigger_points": 150,
+    "close_percent": 0.50
+  },
+
+  "smart_profit_lock": {
+    "ativo": true,
+    "levels": [
+      {
+        "profit_usd": 1.00,
+        "protect_usd": 0.30
+      },
+      {
+        "profit_usd": 2.00,
+        "protect_usd": 1.00
+      },
+      {
+        "profit_usd": 3.00,
+        "protect_usd": 2.00
+      },
+      {
+        "profit_usd": 5.00,
+        "protect_usd": 3.80
+      },
+      {
+        "profit_usd": 8.00,
+        "protect_usd": 6.50
+      }
+    ]
+  },
+
+  "trailing_progressivo": {
+    "ativo": true,
+    "inicio_usd": 1.50,
+    "trail_points_baixo": 80,
+    "trail_points_medio": 120,
+    "trail_points_alto": 180,
+    "lucro_medio_usd": 3.00,
+    "lucro_alto_usd": 6.00
+  },
+
+  "risk_control": {
+    "ativo": true,
+    "daily_loss_limit_usd": 10.00,
+    "max_drawdown_percent": 3.00
+  }
+}
