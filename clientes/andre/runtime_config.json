@@ -1,6 +1,6 @@
 {
   "client_name": "ANDRE",
-  "expiration_date": "2026-12-30",
+  "expiration_date": "2026-06-30",
   "mode": "auto",
   "timeframe": "M5",
   "loop_seconds": 15,
