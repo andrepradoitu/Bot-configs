@@ -1,20 +1,51 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-10 02:30:47",
+  "timestamp": "2026-06-10 15:45:47",
   "status": "ONLINE",
   "github": "OK",
   "modo": "auto",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 1,
-  "saldo": 1304.28,
-  "equity": 1287.72,
-  "margem_livre": 1279.36,
-  "lucro_aberto": -0.11,
+  "saldo": 1373.2,
+  "equity": 1343.86,
+  "margem_livre": 1328.5,
+  "lucro_aberto": 0,
+  "drawdown_percent": 2.14,
+  "risk_control": {
+    "ativo": true,
+    "daily_loss_limit_usd": 10.0,
+    "max_drawdown_percent": 3.0,
+    "emergency_close": false
+  },
   "ativos": {
-    "BTCUSD": "NORMAL",
-    "XAUUSD": "MODERADO",
-    "EURUSD": "MODERADO",
-    "USDJPY": "NORMAL"
+    "BTCUSD": {
+      "perfil": "NORMAL",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
+    },
+    "XAUUSD": {
+      "perfil": "MODERADO",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
+    },
+    "EURUSD": {
+      "perfil": "MODERADO",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
+    }
   }
 }
