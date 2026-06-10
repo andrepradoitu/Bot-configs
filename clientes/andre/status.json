@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-10 01:09:24",
+  "timestamp": "2026-06-10 01:09:58",
   "status": "ONLINE",
   "github": "OK",
   "modo": "auto",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 1304.28,
-  "equity": 1281.76,
-  "margem_livre": 1273.4,
-  "lucro_aberto": -0.07,
+  "equity": 1281.87,
+  "margem_livre": 1273.51,
+  "lucro_aberto": -0.05,
   "ativos": {
     "BTCUSD": "NORMAL",
     "XAUUSD": "MODERADO",
