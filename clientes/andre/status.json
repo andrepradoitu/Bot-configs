@@ -1,8 +1,8 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-11 04:15:38",
+  "timestamp": "2026-06-11 04:16:14",
   "status": "ONLINE",
-  "github": "OFF/ERRO",
+  "github": "OK",
   "modo": "auto",
   "timeframe": "M5",
   "posicoes": 0,
