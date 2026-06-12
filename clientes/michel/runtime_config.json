@@ -27,48 +27,51 @@
   "partial_close": {
     "ativo": true,
     "trigger_points": 150,
-    "close_percent": 0.50
+    "close_percent": 0.5
   },
 
   "smart_profit_lock": {
     "ativo": true,
     "levels": [
-      {
-        "profit_usd": 1.00,
-        "protect_usd": 0.30
-      },
-      {
-        "profit_usd": 2.00,
-        "protect_usd": 1.00
-      },
-      {
-        "profit_usd": 3.00,
-        "protect_usd": 2.00
-      },
-      {
-        "profit_usd": 5.00,
-        "protect_usd": 3.80
-      },
-      {
-        "profit_usd": 8.00,
-        "protect_usd": 6.50
-      }
+      { "profit_usd": 1.0, "protect_usd": 0.3 },
+      { "profit_usd": 2.0, "protect_usd": 1.0 },
+      { "profit_usd": 3.0, "protect_usd": 2.0 },
+      { "profit_usd": 5.0, "protect_usd": 3.8 },
+      { "profit_usd": 8.0, "protect_usd": 6.5 }
     ]
   },
 
   "trailing_progressivo": {
     "ativo": true,
-    "inicio_usd": 1.50,
+    "inicio_usd": 1.5,
     "trail_points_baixo": 80,
     "trail_points_medio": 120,
     "trail_points_alto": 180,
-    "lucro_medio_usd": 3.00,
-    "lucro_alto_usd": 6.00
+    "lucro_medio_usd": 3.0,
+    "lucro_alto_usd": 6.0
   },
 
   "risk_control": {
     "ativo": true,
-    "daily_loss_limit_usd": 10.00,
-    "max_drawdown_percent": 3.00
+    "daily_loss_limit_usd": 10.0,
+    "max_drawdown_percent": 3.0,
+    "emergency_close": false
+  },
+
+  "remote_control": {
+    "enabled": true,
+    "action": "NONE",
+    "last_action": "NONE",
+    "executed": true,
+    "allowed_actions": [
+      "NONE",
+      "AUTO",
+      "SAFE",
+      "PAUSE",
+      "RESUME",
+      "STOP_ALL",
+      "OFFLINE",
+      "ONLINE"
+    ]
   }
 }
