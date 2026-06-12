@@ -1,0 +1,14 @@
+{
+  "client_name": "MICHEL",
+  "status": "OFFLINE",
+  "mode": "auto",
+  "timeframe": "M5",
+  "balance": 0.0,
+  "equity": 0.0,
+  "positions": 0,
+  "profit": 0.0,
+  "risk": "UNKNOWN",
+  "last_update": "",
+  "github_sync": "PENDING",
+  "message": "Aguardando primeiro envio do bot MICHEL"
+}
