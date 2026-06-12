@@ -1,0 +1,27 @@
+{
+  "cliente": "ALEX",
+  "timestamp": "2026-06-11 00:00:00",
+  "status": "OFFLINE",
+  "github": "OK",
+  "modo": "auto",
+  "timeframe": "M5",
+  "posicoes": 0,
+  "max_positions": 2,
+  "saldo": 0,
+  "equity": 0,
+  "margem_livre": 0,
+  "lucro_aberto": 0,
+  "drawdown_percent": 0.0,
+  "risk_control": {
+    "ativo": true,
+    "daily_loss_limit_usd": 10.0,
+    "max_drawdown_percent": 3.0,
+    "emergency_close": false
+  },
+  "ativos": {
+    "BTCUSD": { "perfil": "NORMAL", "status": "SEM POSICAO", "posicoes": 0, "lado": "NONE", "lucro": 0.0 },
+    "XAUUSD": { "perfil": "MODERADO", "status": "SEM POSICAO", "posicoes": 0, "lado": "NONE", "lucro": 0.0 },
+    "EURUSD": { "perfil": "MODERADO", "status": "SEM POSICAO", "posicoes": 0, "lado": "NONE", "lucro": 0.0 },
+    "USDJPY": { "perfil": "NORMAL", "status": "SEM POSICAO", "posicoes": 0, "lado": "NONE", "lucro": 0.0 }
+  }
+}
