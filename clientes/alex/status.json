@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-13 01:49:39",
+  "timestamp": "2026-06-13 04:54:42",
   "status": "ONLINE",
   "github": "OK",
   "modo": "MODERADO",
@@ -29,28 +29,44 @@
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0
+      "lucro": 0.0,
+      "score_ia": 0,
+      "regime": "AGUARDANDO",
+      "confianca": 0,
+      "acao_ia": "AGUARDANDO"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0
+      "lucro": 0.0,
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
+      "acao_ia": "BLOQUEAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0
+      "lucro": 0.0,
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
+      "acao_ia": "BLOQUEAR"
     },
     "USDJPY": {
       "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0
+      "lucro": 0.0,
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
+      "acao_ia": "BLOQUEAR"
     }
   }
 }
