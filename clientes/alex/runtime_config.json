@@ -7,47 +7,55 @@
   "max_positions": 2,
   "cooldown_seconds": 300,
   "wait_new_candle": false,
-
   "github_sync_enabled": true,
   "github_runtime_url": "https://raw.githubusercontent.com/andrepradoitu/Bot-configs/main/clientes/alex/runtime_config.json",
-
   "github_status_push_enabled": true,
   "github_status_owner": "andrepradoitu",
   "github_status_repo": "Bot-configs",
   "github_status_branch": "main",
   "github_status_path": "clientes/alex/status.json",
   "github_status_token": "",
-
   "active_symbols": {
     "BTCUSD": "NORMAL",
     "XAUUSD": "MODERADO",
     "EURUSD": "MODERADO",
     "USDJPY": "NORMAL"
   },
-
   "break_even": {
     "ativo": true,
     "trigger_points": 80,
     "proteger_points": 10
   },
-
   "partial_close": {
     "ativo": true,
     "trigger_points": 150,
     "close_percent": 0.5
   },
-
   "smart_profit_lock": {
     "ativo": true,
     "levels": [
-      { "profit_usd": 1.0, "protect_usd": 0.3 },
-      { "profit_usd": 2.0, "protect_usd": 1.0 },
-      { "profit_usd": 3.0, "protect_usd": 2.0 },
-      { "profit_usd": 5.0, "protect_usd": 3.8 },
-      { "profit_usd": 8.0, "protect_usd": 6.5 }
+      {
+        "profit_usd": 1.0,
+        "protect_usd": 0.3
+      },
+      {
+        "profit_usd": 2.0,
+        "protect_usd": 1.0
+      },
+      {
+        "profit_usd": 3.0,
+        "protect_usd": 2.0
+      },
+      {
+        "profit_usd": 5.0,
+        "protect_usd": 3.8
+      },
+      {
+        "profit_usd": 8.0,
+        "protect_usd": 6.5
+      }
     ]
   },
-
   "trailing_progressivo": {
     "ativo": true,
     "inicio_usd": 1.5,
@@ -57,17 +65,15 @@
     "lucro_medio_usd": 3.0,
     "lucro_alto_usd": 6.0
   },
-
   "risk_control": {
     "ativo": true,
     "daily_loss_limit_usd": 10.0,
     "max_drawdown_percent": 3.0,
     "emergency_close": false
   },
-
   "remote_control": {
     "enabled": true,
-    "action": "NONE",
+    "action": "SAFE",
     "last_action": "NONE",
     "executed": true,
     "allowed_actions": [
@@ -80,5 +86,6 @@
       "OFFLINE",
       "ONLINE"
     ]
-  }
+  },
+  "updated_at": "2026-06-13 01:46:15"
 }
