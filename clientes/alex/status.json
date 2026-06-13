@@ -1,12 +1,12 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-13 01:42:36",
+  "timestamp": "2026-06-13 01:49:39",
   "status": "ONLINE",
   "github": "OK",
-  "modo": "HIBRIDO",
+  "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 0,
-  "max_positions": 2,
+  "max_positions": 1,
   "saldo": 941.73,
   "equity": 941.73,
   "margem_livre": 941.73,
@@ -14,8 +14,8 @@
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
-    "acao": "NONE",
-    "mensagem": "sem comando remoto"
+    "acao": "SAFE",
+    "mensagem": "modo seguro ativado"
   },
   "risk_control": {
     "ativo": true,
