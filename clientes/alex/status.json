@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-16 00:44:45",
+  "timestamp": "2026-06-16 13:05:25",
   "status": "ONLINE",
   "github": "OK",
   "modo": "MODERADO",
@@ -41,10 +41,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 65,
-      "regime": "RANGING",
-      "confianca": 65,
-      "acao_ia": "BLOQUEAR"
+      "score_ia": 50,
+      "regime": "WEAK_TREND",
+      "confianca": 50,
+      "acao_ia": "MODO_INVALIDO"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -52,9 +52,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "DANGEROUS",
-      "confianca": 0,
+      "score_ia": 65,
+      "regime": "RANGING",
+      "confianca": 65,
       "acao_ia": "BLOQUEAR"
     },
     "USDJPY": {
