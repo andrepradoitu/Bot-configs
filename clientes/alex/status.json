@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-17 07:56:39",
+  "timestamp": "2026-06-17 14:24:53",
   "status": "ONLINE",
   "github": "OK",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.73,
-  "equity": 943.52,
-  "margem_livre": 942.36,
-  "lucro_aberto": 1.79,
+  "equity": 944.08,
+  "margem_livre": 942.92,
+  "lucro_aberto": 2.35,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -41,9 +41,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 65,
-      "regime": "RANGING",
-      "confianca": 65,
+      "score_ia": 90,
+      "regime": "WEAK_TREND",
+      "confianca": 90,
       "acao_ia": "BLOQUEAR"
     },
     "EURUSD": {
@@ -52,9 +52,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 25,
+      "score_ia": 65,
       "regime": "RANGING",
-      "confianca": 25,
+      "confianca": 65,
       "acao_ia": "BLOQUEAR"
     },
     "USDJPY": {
