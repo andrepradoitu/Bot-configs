@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-17 15:58:25",
+  "timestamp": "2026-06-17 16:12:28",
   "status": "ONLINE",
   "github": "OK",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.73,
-  "equity": 949.34,
-  "margem_livre": 948.18,
-  "lucro_aberto": 7.61,
+  "equity": 952.28,
+  "margem_livre": 951.12,
+  "lucro_aberto": 10.55,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
       "score_ia": 65,
       "regime": "TRENDING",
       "confianca": 65,
-      "acao_ia": "MODO_INVALIDO"
+      "acao_ia": "EXECUTAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -55,18 +55,18 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "BLOQUEAR"
+      "acao_ia": "IGNORAR"
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "BLOQUEAR"
+      "acao_ia": "EXECUTAR"
     }
   }
 }
