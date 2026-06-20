@@ -1,16 +1,16 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-17 19:19:22",
+  "timestamp": "2026-06-19 21:26:48",
   "status": "ONLINE",
   "github": "OK",
   "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 1,
   "max_positions": 1,
-  "saldo": 941.73,
-  "equity": 952.97,
-  "margem_livre": 951.81,
-  "lucro_aberto": 11.24,
+  "saldo": 941.21,
+  "equity": 955.34,
+  "margem_livre": 954.18,
+  "lucro_aberto": 14.13,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -41,10 +41,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 65,
-      "regime": "TRENDING",
-      "confianca": 65,
-      "acao_ia": "BLOQUEAR"
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
+      "acao_ia": "IGNORAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
