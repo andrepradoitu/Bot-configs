@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-21 03:30:51",
+  "timestamp": "2026-06-21 03:32:07",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -68,5 +68,7 @@
       "confianca": 25,
       "acao_ia": "IGNORAR"
     }
+  }
+}  }
   }
 }
