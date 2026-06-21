@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-21 18:38:41",
+  "timestamp": "2026-06-21 18:39:34",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 25,
-      "regime": "RANGING",
-      "confianca": 25,
-      "acao_ia": "IGNORAR"
+      "score_ia": 0,
+      "regime": "DANGEROUS",
+      "confianca": 0,
+      "acao_ia": "BLOQUEAR"
     }
   }
 }
