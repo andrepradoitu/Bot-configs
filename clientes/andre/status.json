@@ -1,22 +1,17 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-21 19:29:41",
+  "timestamp": "2026-06-21 19:30:25",
   "status": "ONLINE",
-  "github": "ERRO",
-  "modo": "MODERADO",
+  "github": "OFF/ERRO",
+  "modo": "auto",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 1,
   "saldo": 941.21,
-  "equity": 956.37,
-  "margem_livre": 955.21,
-  "lucro_aberto": 15.16,
-  "drawdown_percent": 0.0,
-  "controle_remoto": {
-    "bloquear_operacao": false,
-    "acao": "SAFE",
-    "mensagem": "modo seguro ativado"
-  },
+  "equity": 956.39,
+  "margem_livre": 955.23,
+  "lucro_aberto": 0,
+  "drawdown_percent": -1.61,
   "risk_control": {
     "ativo": true,
     "daily_loss_limit_usd": 10.0,
@@ -29,46 +24,28 @@
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "AGUARDANDO",
-      "confianca": 0,
-      "acao_ia": "AGUARDANDO"
+      "lucro": 0.0
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 65,
-      "regime": "RANGING",
-      "confianca": 65,
-      "acao_ia": "BLOQUEAR"
+      "lucro": 0.0
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 25,
-      "regime": "RANGING",
-      "confianca": 25,
-      "acao_ia": "IGNORAR"
+      "lucro": 0.0
     },
     "USDJPY": {
       "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 65,
-      "regime": "RANGING",
-      "confianca": 65,
-      "acao_ia": "BLOQUEAR"
+      "lucro": 0.0
     }
-  }
-}  }
   }
 }
