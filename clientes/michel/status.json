@@ -1,16 +1,16 @@
 {
   "cliente": "MICHEL",
-  "timestamp": "2026-06-21 18:07:26",
-  "status": "ONLINE",
+  "timestamp": "2026-06-21 18:08:09",
+  "status": "ERRO_MT5",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 1,
-  "saldo": 941.21,
-  "equity": 956.25,
-  "margem_livre": 955.09,
-  "lucro_aberto": 15.04,
+  "saldo": 0.0,
+  "equity": 0.0,
+  "margem_livre": 0.0,
+  "lucro_aberto": 0.0,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -41,10 +41,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 25,
-      "regime": "RANGING",
-      "confianca": 25,
-      "acao_ia": "IGNORAR"
+      "score_ia": 0,
+      "regime": "AGUARDANDO",
+      "confianca": 0,
+      "acao_ia": "AGUARDANDO"
     },
     "EURUSD": {
       "perfil": "CONSERVADOR",
@@ -53,9 +53,9 @@
       "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 0,
-      "regime": "DANGEROUS",
+      "regime": "AGUARDANDO",
       "confianca": 0,
-      "acao_ia": "BLOQUEAR"
+      "acao_ia": "AGUARDANDO"
     },
     "USDJPY": {
       "perfil": "CONSERVADOR",
@@ -64,9 +64,9 @@
       "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 0,
-      "regime": "DANGEROUS",
+      "regime": "AGUARDANDO",
       "confianca": 0,
-      "acao_ia": "BLOQUEAR"
+      "acao_ia": "AGUARDANDO"
     }
   }
 }
