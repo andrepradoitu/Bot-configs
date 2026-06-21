@@ -1,6 +1,6 @@
 {
   "cliente": "ALEX",
-  "timestamp": "2026-06-21 19:25:23",
+  "timestamp": "2026-06-21 19:26:23",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.21,
-  "equity": 956.19,
-  "margem_livre": 955.03,
-  "lucro_aberto": 14.98,
+  "equity": 956.15,
+  "margem_livre": 954.99,
+  "lucro_aberto": 14.94,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
