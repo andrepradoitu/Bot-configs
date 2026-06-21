@@ -1,6 +1,6 @@
 {
-  "cliente": "MICHEL",
-  "timestamp": "2026-06-21 01:38:55",
+  "cliente": "ANDRE",
+  "timestamp": "2026-06-21 01:39:42",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -25,7 +25,7 @@
   },
   "ativos": {
     "BTCUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -36,7 +36,7 @@
       "acao_ia": "AGUARDANDO"
     },
     "XAUUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -47,7 +47,7 @@
       "acao_ia": "IGNORAR"
     },
     "EURUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -58,7 +58,7 @@
       "acao_ia": "BLOQUEAR"
     },
     "USDJPY": {
-      "perfil": "CONSERVADOR",
+      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
