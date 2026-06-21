@@ -1,6 +1,6 @@
 {
-  "cliente": "ALEX",
-  "timestamp": "2026-06-21 16:23:15",
+  "cliente": "MICHEL",
+  "timestamp": "2026-06-21 16:24:03",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -25,7 +25,7 @@
   },
   "ativos": {
     "BTCUSD": {
-      "perfil": "AGRESSIVO",
+      "perfil": "CONSERVADOR",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -36,7 +36,7 @@
       "acao_ia": "AGUARDANDO"
     },
     "XAUUSD": {
-      "perfil": "AGRESSIVO",
+      "perfil": "CONSERVADOR",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
