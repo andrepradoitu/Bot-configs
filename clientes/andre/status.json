@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-21 20:38:27",
+  "timestamp": "2026-06-21 20:39:00",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
@@ -8,8 +8,8 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.21,
-  "equity": 956.06,
-  "margem_livre": 951.9,
+  "equity": 956.1,
+  "margem_livre": 951.94,
   "lucro_aberto": -0.65,
   "drawdown_percent": -1.58,
   "risk_control": {
