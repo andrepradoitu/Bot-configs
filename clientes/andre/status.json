@@ -1,6 +1,6 @@
 {
-  "cliente": "MICHEL",
-  "timestamp": "2026-06-21 19:16:13",
+  "cliente": "ANDRE",
+  "timestamp": "2026-06-21 19:18:49",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.21,
-  "equity": 956.41,
-  "margem_livre": 955.25,
-  "lucro_aberto": 15.2,
+  "equity": 956.22,
+  "margem_livre": 955.06,
+  "lucro_aberto": 15.01,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -25,7 +25,7 @@
   },
   "ativos": {
     "BTCUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -36,7 +36,7 @@
       "acao_ia": "AGUARDANDO"
     },
     "XAUUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -47,7 +47,7 @@
       "acao_ia": "IGNORAR"
     },
     "EURUSD": {
-      "perfil": "CONSERVADOR",
+      "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -58,7 +58,7 @@
       "acao_ia": "IGNORAR"
     },
     "USDJPY": {
-      "perfil": "CONSERVADOR",
+      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
