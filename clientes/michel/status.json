@@ -1,6 +1,6 @@
 {
   "cliente": "MICHEL",
-  "timestamp": "2026-06-21 18:45:19",
+  "timestamp": "2026-06-21 18:46:08",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 941.21,
-  "equity": 956.05,
-  "margem_livre": 954.89,
-  "lucro_aberto": 14.84,
+  "equity": 955.91,
+  "margem_livre": 954.75,
+  "lucro_aberto": 14.7,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -52,10 +52,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 25,
-      "regime": "RANGING",
-      "confianca": 25,
-      "acao_ia": "IGNORAR"
+      "score_ia": 0,
+      "regime": "DANGEROUS",
+      "confianca": 0,
+      "acao_ia": "BLOQUEAR"
     },
     "USDJPY": {
       "perfil": "CONSERVADOR",
