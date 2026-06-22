@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-22 14:06:21",
+  "timestamp": "2026-06-22 14:06:29",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 931.47,
-  "equity": 950.44,
-  "margem_livre": 946.28,
-  "lucro_aberto": 0.52,
+  "equity": 950.48,
+  "margem_livre": 946.32,
+  "lucro_aberto": 0.54,
   "drawdown_percent": -2.04,
   "risk_control": {
     "ativo": true,
@@ -45,7 +45,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 0.52
+      "lucro": 0.54
     }
   }
 }
