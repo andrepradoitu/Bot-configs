@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-22 01:11:08",
+  "timestamp": "2026-06-22 01:11:13",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 1,
   "saldo": 927.39,
-  "equity": 944.81,
-  "margem_livre": 942.5,
-  "lucro_aberto": 1.24,
+  "equity": 944.85,
+  "margem_livre": 942.54,
+  "lucro_aberto": 1.26,
   "drawdown_percent": -1.88,
   "risk_control": {
     "ativo": true,
@@ -38,7 +38,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 1.24
+      "lucro": 1.26
     },
     "USDJPY": {
       "perfil": "NORMAL",
