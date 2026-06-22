@@ -1,17 +1,17 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-06-22 04:53:57",
+  "timestamp": "2026-06-22 04:54:29",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 1,
-  "saldo": 931.09,
-  "equity": 944.55,
-  "margem_livre": 936.96,
-  "lucro_aberto": -3.49,
-  "drawdown_percent": -1.45,
+  "saldo": 927.18,
+  "equity": 944.07,
+  "margem_livre": 942.91,
+  "lucro_aberto": 0,
+  "drawdown_percent": -1.82,
   "risk_control": {
     "ativo": true,
     "daily_loss_limit_usd": 10.0,
@@ -21,10 +21,10 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "BUY",
-      "lucro": -3.49
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
     },
     "XAUUSD": {
       "perfil": "MODERADO",
