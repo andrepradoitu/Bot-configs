@@ -1,17 +1,17 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-07-27 03:11:09",
+  "timestamp": "2026-07-27 03:11:40",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 2,
-  "saldo": 900.06,
-  "equity": 898.55,
-  "margem_livre": 894.41,
-  "lucro_aberto": -1.51,
-  "drawdown_percent": 0.17,
+  "saldo": 899.51,
+  "equity": 898.3,
+  "margem_livre": 895.3,
+  "lucro_aberto": -1.21,
+  "drawdown_percent": 0.13,
   "risk_control": {
     "ativo": true,
     "daily_loss_limit_usd": 10.0,
@@ -35,17 +35,17 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "SELL",
-      "lucro": -0.52
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0
     },
     "USDJPY": {
       "perfil": "NORMAL",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.99
+      "lucro": -1.21
     }
   }
 }
