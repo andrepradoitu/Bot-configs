@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-07-27 08:37:17",
+  "timestamp": "2026-07-27 08:37:48",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
@@ -24,7 +24,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.34
+      "lucro": -0.43
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -38,7 +38,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 0.51
+      "lucro": 0.6
     },
     "USDJPY": {
       "perfil": "NORMAL",
