@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-07-27 15:05:58",
+  "timestamp": "2026-07-27 15:06:30",
   "status": "ONLINE",
   "github": "OFF/ERRO",
   "modo": "auto",
@@ -38,14 +38,14 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.45
+      "lucro": -0.44
     },
     "USDJPY": {
       "perfil": "NORMAL",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.37
+      "lucro": -0.38
     }
   }
 }
