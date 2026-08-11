@@ -8,9 +8,9 @@
   "posicoes": 2,
   "max_positions": 4,
   "saldo": 880.43,
-  "equity": 880.29,
-  "margem_livre": 876.14,
-  "lucro_aberto": -0.14,
+  "equity": 880.22,
+  "margem_livre": 876.07,
+  "lucro_aberto": -0.21,
   "drawdown_percent": 0.02,
   "risk_control": {
     "ativo": true,
@@ -45,7 +45,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.21
+      "lucro": -0.28
     }
   }
 }
