@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-12 23:21:03",
+  "timestamp": "2026-08-12 23:21:08",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 0,
   "max_positions": 1,
-  "saldo": 888.21,
-  "equity": 887.7,
-  "margem_livre": 884.7,
-  "lucro_aberto": -0.51,
+  "saldo": 887.72,
+  "equity": 887.72,
+  "margem_livre": 887.72,
+  "lucro_aberto": 0.0,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "POSICAO ENCERRADA",
+      "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "REAVALIANDO",
-      "confianca": 0,
-      "acao_ia": "AGUARDANDO NOVO CICLO"
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
+      "acao_ia": "IGNORAR | SNIPER: CANCELADO - JANELA EXPIRADA"
     }
   }
 }
