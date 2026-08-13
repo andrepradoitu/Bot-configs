@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-13 00:15:12",
+  "timestamp": "2026-08-13 00:15:17",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 1,
   "saldo": 887.31,
-  "equity": 887.31,
-  "margem_livre": 887.31,
-  "lucro_aberto": 0.0,
+  "equity": 886.36,
+  "margem_livre": 881.95,
+  "lucro_aberto": -0.95,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "POSICAO ENCERRADA",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: CONFIRMADO - LIBERAR"
+      "score_ia": 0,
+      "regime": "REAVALIANDO",
+      "confianca": 0,
+      "acao_ia": "AGUARDANDO NOVO CICLO"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -66,7 +66,7 @@
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: CONFIRMADO - LIBERAR"
+      "acao_ia": "EXECUTAR | SNIPER: CANCELADO - JANELA EXPIRADA"
     }
   }
 }
