@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-13 15:13:05",
+  "timestamp": "2026-08-13 15:13:10",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 0,
   "max_positions": 4,
-  "saldo": 888.69,
+  "saldo": 888.18,
   "equity": 888.18,
-  "margem_livre": 887.03,
-  "lucro_aberto": -0.51,
+  "margem_livre": 888.18,
+  "lucro_aberto": 0.0,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -48,14 +48,14 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ENCERRADA",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "REAVALIANDO",
-      "confianca": 0,
-      "acao_ia": "AGUARDANDO NOVO CICLO"
+      "score_ia": 65,
+      "regime": "RANGING",
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FECHOU - COOLDOWN REENTRADA 10S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
