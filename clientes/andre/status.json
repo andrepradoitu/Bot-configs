@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-13 17:33:22",
+  "timestamp": "2026-08-13 17:33:27",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 889.22,
-  "equity": 889.99,
-  "margem_livre": 884.49,
-  "lucro_aberto": 0.77,
+  "equity": 890.68,
+  "margem_livre": 885.18,
+  "lucro_aberto": 1.46,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "SELL",
-      "lucro": 0.55,
+      "status": "POSICAO ENCERRADA",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
       "score_ia": 0,
-      "regime": "MONITORANDO",
+      "regime": "REAVALIANDO",
       "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "acao_ia": "AGUARDANDO NOVO CICLO"
     },
     "EURUSD": {
       "perfil": "MODERADO",
