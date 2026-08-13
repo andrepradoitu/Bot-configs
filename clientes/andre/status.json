@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-13 15:11:15",
+  "timestamp": "2026-08-13 15:11:20",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 1,
   "max_positions": 4,
-  "saldo": 889.24,
-  "equity": 888.4,
-  "margem_livre": 884.25,
-  "lucro_aberto": -0.84,
+  "saldo": 888.69,
+  "equity": 888.42,
+  "margem_livre": 887.27,
+  "lucro_aberto": -0.27,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,32 +26,32 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 95,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 80,
+      "score_ia": 90,
       "regime": "WEAK_TREND",
-      "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 90,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.29,
+      "lucro": -0.27,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "POSICAO ENCERRADA",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "REAVALIANDO",
-      "confianca": 0,
-      "acao_ia": "AGUARDANDO NOVO CICLO"
+      "score_ia": 65,
+      "regime": "RANGING",
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FECHOU - COOLDOWN REENTRADA 10S"
     }
   }
 }
