@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-14 10:45:19",
+  "timestamp": "2026-08-14 10:45:24",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: XAU AGUARDANDO +15S (5.0s)"
+      "acao_ia": "EXECUTAR | SNIPER: XAU AGUARDANDO +15S (10.0s)"
     },
     "EURUSD": {
       "perfil": "MODERADO",
