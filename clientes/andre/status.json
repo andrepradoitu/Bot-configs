@@ -1,11 +1,11 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-14 05:00:21",
+  "timestamp": "2026-08-14 05:00:27",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 0,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 886.44,
   "equity": 886.44,
@@ -44,7 +44,7 @@
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: XAU AGUARDANDO +15S (10.0s)"
+      "acao_ia": "EXECUTAR | SNIPER: XAU +15S CONFIRMADO - LIBERAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
