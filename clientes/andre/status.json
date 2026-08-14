@@ -1,11 +1,11 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-14 05:01:42",
+  "timestamp": "2026-08-14 05:01:47",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 0,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 884.96,
   "equity": 884.96,
@@ -44,7 +44,7 @@
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REENTRADA 10S"
+      "acao_ia": "EXECUTAR | SNIPER: REENTRADA 10S - LIBERAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
