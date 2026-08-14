@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-13 21:01:40",
+  "timestamp": "2026-08-13 21:01:46",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 890.06,
-  "equity": 889.81,
-  "margem_livre": 882.31,
-  "lucro_aberto": -0.25,
+  "equity": 889.6,
+  "margem_livre": 882.1,
+  "lucro_aberto": -0.46,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,14 +26,14 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "BUY",
-      "lucro": -0.32,
+      "status": "POSICAO ENCERRADA",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
       "score_ia": 0,
-      "regime": "MONITORANDO",
+      "regime": "REAVALIANDO",
       "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "acao_ia": "AGUARDANDO NOVO CICLO"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 0.07,
+      "lucro": 0.06,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
