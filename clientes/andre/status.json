@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-16 20:50:17",
+  "timestamp": "2026-08-16 20:50:22",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
-  "saldo": 858.84,
-  "equity": 858.48,
-  "margem_livre": 854.32,
-  "lucro_aberto": -0.36,
+  "saldo": 858.05,
+  "equity": 857.93,
+  "margem_livre": 856.77,
+  "lucro_aberto": -0.12,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,32 +26,32 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 55,
+      "score_ia": 65,
       "regime": "RANGING",
-      "confianca": 55,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 55,
+      "score_ia": 65,
       "regime": "RANGING",
-      "confianca": 55,
-      "acao_ia": "BLOQUEAR | SNIPER: XAU +15S CANCELADO - SINAL INVALIDOU"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.02,
+      "lucro": -0.08,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
       "lado": "SELL",
-      "lucro": -0.34,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "lucro": 0.0,
+      "score_ia": 65,
+      "regime": "RANGING",
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FECHOU - COOLDOWN REENTRADA 10S"
     }
   }
 }
