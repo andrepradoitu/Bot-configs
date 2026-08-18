@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-17 23:12:32",
+  "timestamp": "2026-08-17 23:12:37",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -50,7 +50,7 @@
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "SELL",
       "lucro": 0.0,
       "score_ia": 65,
       "regime": "RANGING",
