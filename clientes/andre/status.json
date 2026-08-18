@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 12:09:55",
+  "timestamp": "2026-08-18 12:10:00",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,10 +30,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 10,
+      "score_ia": 0,
       "regime": "VOLATILE",
-      "confianca": 10,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "confianca": 0,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -44,14 +44,14 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.37,
+      "lucro": -0.38,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: CONFIRMACAO CANCELADA / VETO"
     }
   }
 }
