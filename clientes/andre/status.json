@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 13:00:49",
+  "timestamp": "2026-08-18 13:00:55",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -33,7 +33,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 75S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 70S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.37,
+      "lucro": -0.38,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
