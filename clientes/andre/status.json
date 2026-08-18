@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 17:20:40",
+  "timestamp": "2026-08-18 17:20:45",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
