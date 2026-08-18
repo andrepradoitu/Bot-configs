@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 10:54:57",
+  "timestamp": "2026-08-18 10:55:03",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 838.39,
-  "equity": 837.72,
-  "margem_livre": 836.56,
-  "lucro_aberto": -0.67,
+  "equity": 837.73,
+  "margem_livre": 836.57,
+  "lucro_aberto": -0.66,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -33,20 +33,9 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: BLOQUEADO - UMA ENTRADA POR VELA"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 45S"
     },
     "XAUUSD": {
-      "perfil": "MODERADO",
-      "status": "SEM POSICAO",
-      "posicoes": 0,
-      "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: SEM PRE-ARMAMENTO / VETO"
-    },
-    "EURUSD": {
       "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
@@ -55,10 +44,10 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     },
-    "USDJPY": {
-      "perfil": "NORMAL",
+    "EURUSD": {
+      "perfil": "MODERADO",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -66,7 +55,18 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
+      "score_ia": 50,
+      "regime": "WEAK_TREND",
+      "confianca": 50,
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
