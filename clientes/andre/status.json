@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 06:34:16",
+  "timestamp": "2026-08-18 06:34:21",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -33,7 +33,7 @@
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REENTRADA 10S"
+      "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO ATE INVALIDAR"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
