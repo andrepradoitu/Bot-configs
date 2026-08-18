@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 12:11:16",
+  "timestamp": "2026-08-18 12:11:21",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,9 +30,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 10,
+      "score_ia": 0,
       "regime": "VOLATILE",
-      "confianca": 10,
+      "confianca": 0,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.38,
+      "lucro": -0.39,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
