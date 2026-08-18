@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 01:02:07",
+  "timestamp": "2026-08-18 01:02:12",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
   "posicoes": 1,
   "max_positions": 4,
-  "saldo": 852.42,
-  "equity": 853.44,
-  "margem_livre": 845.87,
-  "lucro_aberto": 1.02,
+  "saldo": 853.06,
+  "equity": 853.35,
+  "margem_livre": 852.19,
+  "lucro_aberto": 0.29,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,32 +26,32 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
       "lado": "SELL",
-      "lucro": 0.74,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "lucro": 0.0,
+      "score_ia": 65,
+      "regime": "RANGING",
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FECHOU - COOLDOWN REENTRADA 10S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 55,
+      "score_ia": 65,
       "regime": "RANGING",
-      "confianca": 55,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 0.28,
+      "lucro": 0.29,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 55,
+      "score_ia": 65,
       "regime": "RANGING",
-      "confianca": 55,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
