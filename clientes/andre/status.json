@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 12:42:18",
+  "timestamp": "2026-08-18 12:42:23",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -41,9 +41,9 @@
       "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
+      "confianca": 65,
       "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO - UMA ENTRADA POR VELA"
     },
     "EURUSD": {
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.26,
+      "lucro": -0.33,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
