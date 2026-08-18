@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 08:10:43",
+  "timestamp": "2026-08-18 08:10:48",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 65,
       "regime": "RANGING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: XAU AGUARDANDO +15S (10.0s)"
+      "acao_ia": "EXECUTAR | SNIPER: XAU +15S REJEITADO - PRECO NAO CONFIRMOU"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -61,7 +61,7 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "BUY",
       "lucro": 0.0,
       "score_ia": 65,
       "regime": "RANGING",
