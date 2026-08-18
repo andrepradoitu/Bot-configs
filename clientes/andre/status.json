@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-18 10:51:27",
+  "timestamp": "2026-08-18 10:51:32",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -26,14 +26,14 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
+      "score_ia": 50,
       "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO - UMA ENTRADA POR VELA"
+      "confianca": 50,
+      "acao_ia": "IGNORAR | SNIPER: BLOQUEADO - UMA ENTRADA POR VELA"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
