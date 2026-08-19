@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 14:30:02",
+  "timestamp": "2026-08-19 14:30:06",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -37,6 +37,17 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
+      "score_ia": 10,
+      "regime": "DEAD",
+      "confianca": 10,
+      "acao_ia": "BLOQUEAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
+    },
+    "EURUSD": {
+      "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
       "lado": "SELL",
@@ -44,18 +55,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
-    },
-    "EURUSD": {
-      "perfil": "MODERADO",
-      "status": "SEM POSICAO",
-      "posicoes": 0,
-      "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 50,
-      "regime": "WEAK_TREND",
-      "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: SHADOW - SEM ORDEM"
+      "acao_ia": "EXECUTAR | SNIPER: SHADOW - SEM ORDEM"
     },
     "USDJPY": {
       "perfil": "NORMAL",
