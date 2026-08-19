@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 15:09:57",
+  "timestamp": "2026-08-19 15:10:02",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,10 +44,21 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
+      "lado": "BUY",
+      "lucro": 0.0,
+      "score_ia": 90,
+      "regime": "WEAK_TREND",
+      "confianca": 90,
+      "acao_ia": "EXECUTAR | SNIPER: SHADOW - SEM ORDEM"
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -55,18 +66,7 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: SHADOW - SEM ORDEM"
-    },
-    "USDJPY": {
-      "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
-      "posicoes": 0,
-      "lado": "SELL",
-      "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
+      "acao_ia": "IGNORAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
     }
   }
 }
