@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 06:50:00",
+  "timestamp": "2026-08-19 06:50:05",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,9 +30,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 50,
-      "regime": "WEAK_TREND",
-      "confianca": 50,
+      "score_ia": 25,
+      "regime": "RANGING",
+      "confianca": 25,
       "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
