@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 15:08:12",
+  "timestamp": "2026-08-19 15:08:17",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
+      "score_ia": 50,
       "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
+      "confianca": 50,
+      "acao_ia": "IGNORAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
     }
   }
 }
