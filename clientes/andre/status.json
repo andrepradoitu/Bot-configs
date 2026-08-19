@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 14:34:57",
+  "timestamp": "2026-08-19 14:35:02",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -41,10 +41,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 10,
+      "score_ia": 0,
       "regime": "DEAD",
-      "confianca": 10,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "confianca": 0,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
