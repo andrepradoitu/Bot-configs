@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 19:36:08",
+  "timestamp": "2026-08-19 19:36:14",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -41,10 +41,10 @@
       "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: T+55 + POLITICA V4 OK - LIBERAR"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: JANELA SNIPER EXPIRADA"
     },
     "EURUSD": {
       "perfil": "MODERADO",
