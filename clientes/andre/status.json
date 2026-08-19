@@ -1,11 +1,11 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 13:20:27",
+  "timestamp": "2026-08-19 13:20:32",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 0,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 837.8,
   "equity": 837.8,
@@ -44,7 +44,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+30"
+      "acao_ia": "EXECUTAR | SNIPER: T+30 + MARKET BRAIN OK - LIBERAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
