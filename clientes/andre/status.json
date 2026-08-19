@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 12:45:22",
+  "timestamp": "2026-08-19 12:45:27",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 620S"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: COOLDOWN REAL 615S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
