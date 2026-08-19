@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-19 17:59:55",
+  "timestamp": "2026-08-19 18:00:00",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -59,14 +59,14 @@
     },
     "USDJPY": {
       "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
+      "acao_ia": "BLOQUEAR | SNIPER: BLOQUEADO_SEM_VANTAGEM"
     }
   }
 }
