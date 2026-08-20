@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-20 02:48:40",
+  "timestamp": "2026-08-20 02:48:45",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,10 +30,10 @@
       "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 855S"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 850S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
