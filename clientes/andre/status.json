@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-20 03:06:56",
+  "timestamp": "2026-08-20 03:07:01",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -50,12 +50,12 @@
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 515S"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 510S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
