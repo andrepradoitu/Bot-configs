@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-20 02:58:00",
+  "timestamp": "2026-08-20 02:58:05",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -33,7 +33,7 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 295S"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 290S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
