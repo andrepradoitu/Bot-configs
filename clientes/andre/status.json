@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-20 18:19:52",
+  "timestamp": "2026-08-20 18:19:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -64,7 +64,7 @@
       "lado": "NONE",
       "lucro": 0.0,
       "score_ia": 0,
-      "regime": "DEAD",
+      "regime": "DANGEROUS",
       "confianca": 0,
       "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     }
