@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-20 10:30:20",
+  "timestamp": "2026-08-20 10:30:25",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -48,17 +48,6 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
-      "posicoes": 0,
-      "lado": "SELL",
-      "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
-    },
-    "USDJPY": {
-      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
@@ -67,6 +56,17 @@
       "regime": "WEAK_TREND",
       "confianca": 50,
       "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
+      "score_ia": 90,
+      "regime": "WEAK_TREND",
+      "confianca": 90,
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
