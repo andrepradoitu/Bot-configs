@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-21 14:25:42",
+  "timestamp": "2026-08-21 14:25:47",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 685S"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 680S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
