@@ -1,11 +1,11 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-21 14:40:58",
+  "timestamp": "2026-08-21 14:41:03",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 0,
+  "posicoes": 1,
   "max_positions": 4,
   "saldo": 850.71,
   "equity": 850.71,
@@ -55,7 +55,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+60"
+      "acao_ia": "EXECUTAR | SNIPER: T+60 + POLITICA V5 OK - LIBERAR"
     },
     "USDJPY": {
       "perfil": "NORMAL",
