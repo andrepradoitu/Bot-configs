@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-30 20:16:14",
+  "timestamp": "2026-08-30 20:16:19",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 80,
       "regime": "WEAK_TREND",
       "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 445S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 440S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
