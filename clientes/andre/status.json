@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-30 20:13:19",
+  "timestamp": "2026-08-30 20:13:24",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 2,
   "max_positions": 4,
   "saldo": 855.81,
-  "equity": 855.36,
-  "margem_livre": 850.28,
-  "lucro_aberto": -0.45,
+  "equity": 855.43,
+  "margem_livre": 850.35,
+  "lucro_aberto": -0.38,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -29,7 +29,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.42,
+      "lucro": -0.35,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -44,7 +44,7 @@
       "score_ia": 95,
       "regime": "TRENDING",
       "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 620S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 615S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
