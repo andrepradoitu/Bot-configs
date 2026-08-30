@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-30 20:11:04",
+  "timestamp": "2026-08-30 20:11:09",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -29,7 +29,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 0.25,
+      "lucro": 0.3,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -44,14 +44,14 @@
       "score_ia": 95,
       "regime": "TRENDING",
       "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 755S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 750S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.04,
+      "lucro": -0.05,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
