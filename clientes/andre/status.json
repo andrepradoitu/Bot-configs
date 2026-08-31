@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 17:03:06",
+  "timestamp": "2026-08-31 17:03:11",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 843.86,
-  "equity": 840.48,
-  "margem_livre": 836.55,
-  "lucro_aberto": -3.38,
+  "equity": 840.53,
+  "margem_livre": 836.6,
+  "lucro_aberto": -3.33,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -55,7 +55,7 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 860S"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 855S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 50,
+      "score_ia": 90,
       "regime": "WEAK_TREND",
-      "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 90,
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
