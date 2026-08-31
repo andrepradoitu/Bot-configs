@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 16:54:55",
+  "timestamp": "2026-08-31 16:55:01",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 858.8,
-  "equity": 845.19,
-  "margem_livre": 835.66,
-  "lucro_aberto": -13.61,
+  "equity": 845.62,
+  "margem_livre": 836.09,
+  "lucro_aberto": -13.18,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -30,10 +30,10 @@
       "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 210S"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 204S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -44,14 +44,14 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 0.07,
+      "lucro": 0.05,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -66,7 +66,7 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
