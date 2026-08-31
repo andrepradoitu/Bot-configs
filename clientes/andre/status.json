@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 14:04:09",
+  "timestamp": "2026-08-31 14:04:14",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 854.91,
-  "equity": 854.26,
-  "margem_livre": 850.33,
-  "lucro_aberto": -0.65,
+  "equity": 854.45,
+  "margem_livre": 850.52,
+  "lucro_aberto": -0.46,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -28,11 +28,11 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
+      "confianca": 65,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
@@ -50,11 +50,11 @@
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 65,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 65,
+      "confianca": 100,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "USDJPY": {
