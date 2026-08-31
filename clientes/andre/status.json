@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 20:15:52",
+  "timestamp": "2026-08-31 20:15:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 844.84,
-  "equity": 849.54,
-  "margem_livre": 838.84,
-  "lucro_aberto": 4.7,
+  "equity": 849.34,
+  "margem_livre": 838.64,
+  "lucro_aberto": 4.5,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -33,7 +33,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: T+40 + POLITICA V5 OK - LIBERAR"
+      "acao_ia": "EXECUTAR | SNIPER: JANELA SNIPER EXPIRADA"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -44,14 +44,14 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+55"
+      "acao_ia": "EXECUTAR | SNIPER: T+55 + POLITICA V5 OK - LIBERAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.11,
+      "lucro": -0.1,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
