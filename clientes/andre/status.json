@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 20:54:53",
+  "timestamp": "2026-08-31 20:54:58",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -28,7 +28,7 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "BUY",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
@@ -55,7 +55,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 290S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 285S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
