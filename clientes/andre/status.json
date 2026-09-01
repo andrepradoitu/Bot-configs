@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 01:35:03",
+  "timestamp": "2026-09-01 01:35:08",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 4,
-  "saldo": 853.78,
+  "saldo": 852.69,
   "equity": 852.69,
-  "margem_livre": 848.75,
-  "lucro_aberto": -1.09,
+  "margem_livre": 852.69,
+  "lucro_aberto": 0.0,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,14 +26,14 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
       "lado": "BUY",
-      "lucro": -1.09,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "lucro": 0.0,
+      "score_ia": 100,
+      "regime": "TRENDING",
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 900S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 120S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 115S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 120S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 115S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
