@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 23:25:13",
+  "timestamp": "2026-08-31 23:25:18",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -33,7 +33,7 @@
       "score_ia": 65,
       "regime": "TRENDING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
+      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
