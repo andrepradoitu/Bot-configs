@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 00:43:30",
+  "timestamp": "2026-09-01 00:43:35",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 2,
   "max_positions": 4,
   "saldo": 849.6,
-  "equity": 846.47,
-  "margem_livre": 840.87,
-  "lucro_aberto": -3.13,
+  "equity": 846.75,
+  "margem_livre": 841.15,
+  "lucro_aberto": -2.85,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -33,14 +33,14 @@
       "score_ia": 80,
       "regime": "WEAK_TREND",
       "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 240S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 235S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -2.75,
+      "lucro": -2.58,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
