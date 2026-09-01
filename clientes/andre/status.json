@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 00:17:34",
+  "timestamp": "2026-09-01 00:17:39",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -50,11 +50,11 @@
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
+      "confianca": 65,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "USDJPY": {
