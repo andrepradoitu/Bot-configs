@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 00:25:20",
+  "timestamp": "2026-09-01 00:25:25",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+55"
     },
     "EURUSD": {
       "perfil": "MODERADO",
