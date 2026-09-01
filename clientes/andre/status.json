@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 01:27:57",
+  "timestamp": "2026-09-01 01:28:02",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -29,7 +29,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 0.04,
+      "lucro": 0.03,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -44,7 +44,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 545S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 540S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 545S"
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 540S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
