@@ -1,11 +1,11 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 23:43:58",
+  "timestamp": "2026-08-31 23:44:03",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 4,
   "saldo": 848.13,
   "equity": 848.17,
