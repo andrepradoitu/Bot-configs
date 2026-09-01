@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 02:01:33",
+  "timestamp": "2026-09-01 02:01:38",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
-  "saldo": 852.69,
-  "equity": 851.18,
-  "margem_livre": 845.59,
-  "lucro_aberto": -1.51,
+  "saldo": 852.23,
+  "equity": 850.58,
+  "margem_livre": 846.15,
+  "lucro_aberto": -1.65,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,21 +26,21 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 80,
+      "score_ia": 90,
       "regime": "WEAK_TREND",
-      "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 90,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -1.0,
+      "lucro": -1.65,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -48,14 +48,14 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "SELL",
-      "lucro": -0.43,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
+      "lado": "BUY",
+      "lucro": 0.0,
+      "score_ia": 100,
+      "regime": "TRENDING",
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 900S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 80,
+      "score_ia": 90,
       "regime": "WEAK_TREND",
-      "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 90,
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
