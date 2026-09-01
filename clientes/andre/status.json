@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-08-31 22:05:11",
+  "timestamp": "2026-08-31 22:05:16",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,14 +44,14 @@
       "score_ia": 65,
       "regime": "TRENDING",
       "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
+      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.62,
+      "lucro": -0.61,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
