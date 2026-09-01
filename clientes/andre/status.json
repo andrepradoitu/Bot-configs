@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-01 00:09:59",
+  "timestamp": "2026-09-01 00:10:04",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -28,12 +28,12 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 65,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -44,18 +44,18 @@
       "score_ia": 50,
       "regime": "WEAK_TREND",
       "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
     },
     "USDJPY": {
       "perfil": "NORMAL",
@@ -66,7 +66,7 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "IGNORAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
