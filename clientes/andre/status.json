@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 18:39:52",
+  "timestamp": "2026-09-03 18:39:58",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,9 +30,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
+      "confianca": 65,
       "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     },
     "XAUUSD": {
@@ -55,7 +55,7 @@
       "score_ia": 0,
       "regime": "DANGEROUS",
       "confianca": 0,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 103S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 98S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
@@ -63,9 +63,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "DANGEROUS",
-      "confianca": 0,
+      "score_ia": 10,
+      "regime": "DEAD",
+      "confianca": 10,
       "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     }
   }
