@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 19:00:56",
+  "timestamp": "2026-09-03 19:01:01",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -41,9 +41,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
+      "score_ia": 10,
       "regime": "DEAD",
-      "confianca": 0,
+      "confianca": 10,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
@@ -63,9 +63,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 100,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 100,
+      "confianca": 65,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
