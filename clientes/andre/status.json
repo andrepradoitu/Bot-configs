@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 18:28:51",
+  "timestamp": "2026-09-03 18:28:56",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -52,10 +52,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 765S"
+      "score_ia": 15,
+      "regime": "DANGEROUS",
+      "confianca": 15,
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 760S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
