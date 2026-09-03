@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 19:35:07",
+  "timestamp": "2026-09-03 19:35:22",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -33,7 +33,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
+      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -52,10 +52,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 50,
-      "regime": "WEAK_TREND",
-      "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
+      "score_ia": 10,
+      "regime": "DEAD",
+      "confianca": 10,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "USDJPY": {
       "perfil": "NORMAL",
