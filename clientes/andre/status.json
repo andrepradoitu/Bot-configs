@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 19:10:01",
+  "timestamp": "2026-09-03 19:10:06",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -41,9 +41,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
+      "score_ia": 10,
       "regime": "DEAD",
-      "confianca": 0,
+      "confianca": 10,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
