@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 18:26:31",
+  "timestamp": "2026-09-03 18:26:36",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 1,
+  "posicoes": 0,
   "max_positions": 4,
-  "saldo": 846.67,
-  "equity": 846.24,
-  "margem_livre": 845.08,
-  "lucro_aberto": -0.43,
+  "saldo": 846.21,
+  "equity": 846.21,
+  "margem_livre": 846.21,
+  "lucro_aberto": 0.0,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -48,14 +48,14 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "BUY",
-      "lucro": -0.34,
+      "status": "SEM POSICAO",
+      "posicoes": 0,
+      "lado": "NONE",
+      "lucro": 0.0,
       "score_ia": 0,
-      "regime": "MONITORANDO",
+      "regime": "DANGEROUS",
       "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 900S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
