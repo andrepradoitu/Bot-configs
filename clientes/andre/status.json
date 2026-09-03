@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 19:40:20",
+  "timestamp": "2026-09-03 19:40:25",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
+      "score_ia": 50,
       "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+55"
+      "confianca": 50,
+      "acao_ia": "IGNORAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
     },
     "EURUSD": {
       "perfil": "MODERADO",
