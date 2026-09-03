@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-03 18:35:53",
+  "timestamp": "2026-09-03 18:35:58",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 0,
       "regime": "DANGEROUS",
       "confianca": 0,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 343S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 338S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
@@ -63,9 +63,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
-      "regime": "DANGEROUS",
-      "confianca": 0,
+      "score_ia": 10,
+      "regime": "DEAD",
+      "confianca": 10,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
