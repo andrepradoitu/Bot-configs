@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-09 17:20:43",
+  "timestamp": "2026-09-09 17:20:47",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 851.56,
-  "equity": 851.56,
-  "margem_livre": 851.56,
-  "lucro_aberto": 0.0,
+  "equity": 851.34,
+  "margem_livre": 847.43,
+  "lucro_aberto": -0.22,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,14 +26,14 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SINAL ATIVO",
-      "posicoes": 0,
+      "status": "POSICAO ABERTA",
+      "posicoes": 1,
       "lado": "SELL",
-      "lucro": 0.0,
-      "score_ia": 100,
-      "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: T+40 + POLITICA V5 OK - LIBERAR"
+      "lucro": -0.22,
+      "score_ia": 0,
+      "regime": "MONITORANDO",
+      "confianca": 0,
+      "acao_ia": "GERENCIANDO POSICAO"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 10,
       "regime": "DEAD",
       "confianca": 10,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 389S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 385S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
