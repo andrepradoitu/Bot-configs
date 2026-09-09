@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-08 22:38:02",
+  "timestamp": "2026-09-08 22:38:06",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -48,14 +48,14 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 50,
+      "score_ia": 90,
       "regime": "WEAK_TREND",
-      "confianca": 50,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 64S"
+      "confianca": 90,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 60S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
