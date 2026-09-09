@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-08 22:59:57",
+  "timestamp": "2026-09-08 23:00:02",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 2,
   "max_positions": 4,
   "saldo": 858.26,
-  "equity": 859.52,
-  "margem_livre": 854.42,
-  "lucro_aberto": 1.26,
+  "equity": 859.62,
+  "margem_livre": 854.52,
+  "lucro_aberto": 1.36,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -29,7 +29,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 1.27,
+      "lucro": 1.38,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -41,17 +41,17 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 40,
+      "score_ia": 80,
       "regime": "WEAK_TREND",
-      "confianca": 40,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "confianca": 80,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.01,
+      "lucro": 0.0,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 95,
-      "regime": "TRENDING",
-      "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "score_ia": 40,
+      "regime": "WEAK_TREND",
+      "confianca": 40,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
