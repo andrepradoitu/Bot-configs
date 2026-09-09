@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-09 17:17:17",
+  "timestamp": "2026-09-09 17:17:22",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 10,
       "regime": "DEAD",
       "confianca": 10,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 595S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 590S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
