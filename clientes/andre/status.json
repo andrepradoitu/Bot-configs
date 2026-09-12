@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-12 07:14:52",
+  "timestamp": "2026-09-12 07:14:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -30,9 +30,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 80,
-      "regime": "WEAK_TREND",
-      "confianca": 80,
+      "score_ia": 95,
+      "regime": "TRENDING",
+      "confianca": 95,
       "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     },
     "XAUUSD": {
