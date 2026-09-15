@@ -1,16 +1,16 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-09-14 23:51:22",
+  "timestamp": "2026-09-14 23:51:28",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
-  "saldo": 865.36,
-  "equity": 866.41,
-  "margem_livre": 861.36,
-  "lucro_aberto": 1.05,
+  "saldo": 866.83,
+  "equity": 866.64,
+  "margem_livre": 865.49,
+  "lucro_aberto": -0.19,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -26,25 +26,25 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
       "lado": "SELL",
-      "lucro": 1.25,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
+      "lucro": 0.0,
+      "score_ia": 100,
+      "regime": "TRENDING",
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: COOLDOWN REAL 900S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SEM POSICAO",
+      "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "NONE",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 95,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 55,
+      "score_ia": 65,
       "regime": "TRENDING",
-      "confianca": 55,
-      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
+      "confianca": 65,
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
