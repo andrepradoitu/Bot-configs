@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-02 02:19:47",
+  "timestamp": "2026-11-02 02:19:52",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -29,7 +29,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 1.22,
+      "lucro": 1.21,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -41,9 +41,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 15,
-      "regime": "RANGING",
-      "confianca": 15,
+      "score_ia": 0,
+      "regime": "DEAD",
+      "confianca": 0,
       "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     },
     "EURUSD": {
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 0.89,
+      "lucro": 0.9,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
