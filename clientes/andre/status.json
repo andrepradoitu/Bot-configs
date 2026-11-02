@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-02 07:56:06",
+  "timestamp": "2026-11-02 07:56:11",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": 1.57,
+      "lucro": 1.62,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
