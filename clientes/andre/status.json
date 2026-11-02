@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-02 18:00:03",
+  "timestamp": "2026-11-02 18:00:08",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "BLOQUEAR | SNIPER: CONFIRMACAO CANCELADA / VETO"
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "EURUSD": {
       "perfil": "MODERADO",
