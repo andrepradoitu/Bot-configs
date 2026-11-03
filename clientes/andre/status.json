@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 16:19:52",
+  "timestamp": "2026-11-03 16:19:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -55,7 +55,7 @@
       "score_ia": 0,
       "regime": "DEAD",
       "confianca": 0,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 465S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 460S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
