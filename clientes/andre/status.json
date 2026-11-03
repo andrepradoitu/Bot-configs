@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 17:49:13",
+  "timestamp": "2026-11-03 17:49:18",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 1013.38,
-  "equity": 1012.5,
-  "margem_livre": 1008.58,
-  "lucro_aberto": -0.88,
+  "equity": 1012.12,
+  "margem_livre": 1008.2,
+  "lucro_aberto": -1.26,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -40,7 +40,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -0.79,
+      "lucro": -1.26,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -52,9 +52,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 0,
+      "score_ia": 10,
       "regime": "DEAD",
-      "confianca": 0,
+      "confianca": 10,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "USDJPY": {
