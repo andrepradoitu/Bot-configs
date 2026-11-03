@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 04:43:01",
+  "timestamp": "2026-11-03 04:43:06",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 2,
   "max_positions": 4,
   "saldo": 1004.0,
-  "equity": 1004.12,
-  "margem_livre": 999.09,
-  "lucro_aberto": 0.12,
+  "equity": 1004.13,
+  "margem_livre": 999.1,
+  "lucro_aberto": 0.13,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -33,14 +33,14 @@
       "score_ia": 80,
       "regime": "WEAK_TREND",
       "confianca": 80,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 65S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 60S"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -1.1,
+      "lucro": -1.12,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -51,7 +51,7 @@
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 1.22,
+      "lucro": 1.25,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -63,9 +63,9 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 80,
+      "score_ia": 40,
       "regime": "WEAK_TREND",
-      "confianca": 80,
+      "confianca": 40,
       "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
