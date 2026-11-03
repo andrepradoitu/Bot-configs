@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 19:45:01",
+  "timestamp": "2026-11-03 19:45:06",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -48,14 +48,14 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "BUY",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 100,
-      "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
+      "score_ia": 15,
+      "regime": "DANGEROUS",
+      "confianca": 15,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "USDJPY": {
       "perfil": "NORMAL",
