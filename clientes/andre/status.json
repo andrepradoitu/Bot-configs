@@ -1,15 +1,15 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 17:29:52",
+  "timestamp": "2026-11-03 17:29:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
   "timeframe": "M5",
-  "posicoes": 2,
+  "posicoes": 1,
   "max_positions": 4,
-  "saldo": 1013.65,
-  "equity": 1012.12,
-  "margem_livre": 1007.08,
+  "saldo": 1013.38,
+  "equity": 1011.85,
+  "margem_livre": 1007.93,
   "lucro_aberto": -1.53,
   "drawdown_percent": 0.0,
   "controle_remoto": {
@@ -30,17 +30,17 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 15,
+      "score_ia": 25,
       "regime": "RANGING",
-      "confianca": 15,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "confianca": 25,
+      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -1.32,
+      "lucro": -1.53,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -48,25 +48,25 @@
     },
     "EURUSD": {
       "perfil": "MODERADO",
-      "status": "POSICAO ABERTA",
-      "posicoes": 1,
-      "lado": "SELL",
-      "lucro": -0.24,
-      "score_ia": 0,
-      "regime": "MONITORANDO",
-      "confianca": 0,
-      "acao_ia": "GERENCIANDO POSICAO"
-    },
-    "USDJPY": {
-      "perfil": "NORMAL",
       "status": "SEM POSICAO",
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 95,
+      "score_ia": 10,
+      "regime": "DEAD",
+      "confianca": 10,
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 900S"
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
+      "lado": "BUY",
+      "lucro": 0.0,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 95,
-      "acao_ia": "BLOQUEAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
     }
   }
 }
