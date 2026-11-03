@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 18:38:44",
+  "timestamp": "2026-11-03 18:38:49",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,7 +44,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 355S"
+      "acao_ia": "BLOQUEAR | SNIPER: COOLDOWN REAL 350S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
