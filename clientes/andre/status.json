@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-04 05:47:36",
+  "timestamp": "2026-11-04 05:47:41",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 1001.72,
-  "equity": 996.5,
-  "margem_livre": 995.38,
-  "lucro_aberto": -5.22,
+  "equity": 996.47,
+  "margem_livre": 995.35,
+  "lucro_aberto": -5.25,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -55,7 +55,7 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 740S"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 735S"
     },
     "USDJPY": {
       "perfil": "NORMAL",
