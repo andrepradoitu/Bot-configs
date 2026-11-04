@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-04 07:27:26",
+  "timestamp": "2026-11-04 07:27:31",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 1001.72,
-  "equity": 995.93,
-  "margem_livre": 994.81,
-  "lucro_aberto": -5.79,
+  "equity": 995.99,
+  "margem_livre": 994.87,
+  "lucro_aberto": -5.73,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -50,23 +50,23 @@
       "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
+      "lado": "SELL",
+      "lucro": 0.0,
+      "score_ia": 65,
+      "regime": "TRENDING",
+      "confianca": 65,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
+    },
+    "USDJPY": {
+      "perfil": "NORMAL",
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
       "lado": "BUY",
       "lucro": 0.0,
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
-    },
-    "USDJPY": {
-      "perfil": "NORMAL",
-      "status": "SEM POSICAO",
-      "posicoes": 0,
-      "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 100,
-      "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
