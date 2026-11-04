@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 22:20:53",
+  "timestamp": "2026-11-03 22:20:58",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 1009.37,
-  "equity": 997.0,
-  "margem_livre": 991.99,
-  "lucro_aberto": -12.37,
+  "equity": 997.19,
+  "margem_livre": 992.18,
+  "lucro_aberto": -12.18,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -44,7 +44,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+55"
+      "acao_ia": "EXECUTAR | SNIPER: T+55 + POLITICA V5 OK - LIBERAR"
     },
     "EURUSD": {
       "perfil": "MODERADO",
