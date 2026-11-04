@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-03 22:09:54",
+  "timestamp": "2026-11-03 22:09:59",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 0,
   "max_positions": 4,
   "saldo": 1009.37,
-  "equity": 999.26,
-  "margem_livre": 994.25,
-  "lucro_aberto": -10.11,
+  "equity": 999.0,
+  "margem_livre": 993.99,
+  "lucro_aberto": -10.37,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -37,14 +37,14 @@
     },
     "XAUUSD": {
       "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
+      "status": "SEM POSICAO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 100,
-      "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "score_ia": 50,
+      "regime": "WEAK_TREND",
+      "confianca": 50,
+      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
     },
     "EURUSD": {
       "perfil": "MODERADO",
