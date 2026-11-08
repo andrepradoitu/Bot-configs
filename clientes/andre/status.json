@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-08 19:43:52",
+  "timestamp": "2026-11-08 19:43:57",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -63,10 +63,10 @@
       "posicoes": 0,
       "lado": "NONE",
       "lucro": 0.0,
-      "score_ia": 90,
-      "regime": "WEAK_TREND",
-      "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
+      "score_ia": 15,
+      "regime": "DANGEROUS",
+      "confianca": 15,
+      "acao_ia": "BLOQUEAR | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
