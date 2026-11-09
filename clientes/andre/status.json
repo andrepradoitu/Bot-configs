@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-09 06:00:56",
+  "timestamp": "2026-11-09 06:01:01",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 1011.12,
-  "equity": 1009.88,
-  "margem_livre": 1004.67,
-  "lucro_aberto": -1.24,
+  "equity": 1009.63,
+  "margem_livre": 1004.42,
+  "lucro_aberto": -1.49,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -33,14 +33,14 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: JANELA SNIPER EXPIRADA"
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "SELL",
-      "lucro": -2.97,
+      "lucro": -3.11,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -55,7 +55,7 @@
       "score_ia": 100,
       "regime": "TRENDING",
       "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+60"
+      "acao_ia": "EXECUTAR | SNIPER: T+60 + POLITICA V5 OK - LIBERAR"
     },
     "USDJPY": {
       "perfil": "NORMAL",
