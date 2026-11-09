@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-09 08:21:28",
+  "timestamp": "2026-11-09 08:21:33",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -44,14 +44,14 @@
       "score_ia": 25,
       "regime": "RANGING",
       "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 430S"
+      "acao_ia": "IGNORAR | SNIPER: COOLDOWN REAL 425S"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.28,
+      "lucro": -0.29,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
