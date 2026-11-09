@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-09 10:51:40",
+  "timestamp": "2026-11-09 10:51:45",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -28,17 +28,6 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "BUY",
-      "lucro": 0.0,
-      "score_ia": 100,
-      "regime": "TRENDING",
-      "confianca": 100,
-      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
-    },
-    "XAUUSD": {
-      "perfil": "MODERADO",
-      "status": "SINAL ATIVO",
-      "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
       "score_ia": 65,
@@ -46,12 +35,23 @@
       "confianca": 65,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
+    "XAUUSD": {
+      "perfil": "MODERADO",
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
+      "lado": "BUY",
+      "lucro": 0.0,
+      "score_ia": 100,
+      "regime": "TRENDING",
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
+    },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": -0.34,
+      "lucro": -0.32,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
