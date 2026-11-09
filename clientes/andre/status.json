@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-09 16:39:57",
+  "timestamp": "2026-11-09 16:40:02",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -26,17 +26,6 @@
   "ativos": {
     "BTCUSD": {
       "perfil": "NORMAL",
-      "status": "SEM POSICAO",
-      "posicoes": 0,
-      "lado": "NONE",
-      "lucro": 0.0,
-      "score_ia": 25,
-      "regime": "RANGING",
-      "confianca": 25,
-      "acao_ia": "IGNORAR | SNIPER: SEM PRE-ARMAMENTO / VETO"
-    },
-    "XAUUSD": {
-      "perfil": "MODERADO",
       "status": "SINAL ATIVO",
       "posicoes": 0,
       "lado": "BUY",
@@ -44,14 +33,25 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: PRE-ARMADO COM MARKET BRAIN"
+      "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
+    },
+    "XAUUSD": {
+      "perfil": "MODERADO",
+      "status": "SINAL ATIVO",
+      "posicoes": 0,
+      "lado": "BUY",
+      "lucro": 0.0,
+      "score_ia": 100,
+      "regime": "TRENDING",
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+15"
     },
     "EURUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 2.15,
+      "lucro": 2.18,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -66,7 +66,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: SEM PRE-ARMAMENTO / VETO"
+      "acao_ia": "BLOQUEAR_MARKET_BRAIN | SNIPER: FORA DA JANELA SNIPER"
     }
   }
 }
