@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-13 04:16:24",
+  "timestamp": "2026-11-13 04:16:29",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 1035.37,
-  "equity": 1044.48,
-  "margem_livre": 1039.46,
-  "lucro_aberto": 9.11,
+  "equity": 1044.54,
+  "margem_livre": 1039.52,
+  "lucro_aberto": 9.17,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -28,11 +28,11 @@
       "perfil": "NORMAL",
       "status": "SINAL ATIVO",
       "posicoes": 0,
-      "lado": "SELL",
+      "lado": "BUY",
       "lucro": 0.0,
-      "score_ia": 65,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 65,
+      "confianca": 100,
       "acao_ia": "EXECUTAR | SNIPER: FORA DA JANELA SNIPER"
     },
     "XAUUSD": {
