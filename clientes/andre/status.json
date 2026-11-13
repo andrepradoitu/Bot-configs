@@ -1,6 +1,6 @@
 {
   "cliente": "ANDRE",
-  "timestamp": "2026-11-12 22:20:18",
+  "timestamp": "2026-11-12 22:20:23",
   "status": "ONLINE",
   "github": "ERRO",
   "modo": "MODERADO",
@@ -8,9 +8,9 @@
   "posicoes": 1,
   "max_positions": 4,
   "saldo": 1007.23,
-  "equity": 1032.19,
-  "margem_livre": 1027.18,
-  "lucro_aberto": 24.96,
+  "equity": 1032.35,
+  "margem_livre": 1027.34,
+  "lucro_aberto": 25.12,
   "drawdown_percent": 0.0,
   "controle_remoto": {
     "bloquear_operacao": false,
@@ -30,17 +30,17 @@
       "posicoes": 0,
       "lado": "SELL",
       "lucro": 0.0,
-      "score_ia": 65,
+      "score_ia": 100,
       "regime": "TRENDING",
-      "confianca": 65,
-      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
+      "confianca": 100,
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+40"
     },
     "XAUUSD": {
       "perfil": "MODERADO",
       "status": "POSICAO ABERTA",
       "posicoes": 1,
       "lado": "BUY",
-      "lucro": 10.49,
+      "lucro": 10.79,
       "score_ia": 0,
       "regime": "MONITORANDO",
       "confianca": 0,
@@ -55,7 +55,7 @@
       "score_ia": 90,
       "regime": "WEAK_TREND",
       "confianca": 90,
-      "acao_ia": "EXECUTAR | SNIPER: CONFIRMACAO 1 OK"
+      "acao_ia": "EXECUTAR | SNIPER: AGUARDANDO T+60"
     },
     "USDJPY": {
       "perfil": "NORMAL",
